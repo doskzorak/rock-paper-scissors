@@ -1,1 +1,0 @@
-This javascript project is part of The Odin Project's asignments touching on the fundamentals of web programming. In the project here I have created a simple game of rock-paper-scissors which pits the user against the computer. Enjoy playing!
